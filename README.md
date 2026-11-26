@@ -82,6 +82,3 @@ The results table should be filled from the notebook after it has been run. No m
 - Metrics are dataset-specific and do not establish clinical usefulness.
 - The model is for academic learning only, not diagnosis, treatment or medical decisions.
 
-## GitHub checklist
-
-Before publishing, run all notebook cells and save the notebook with outputs if appropriate. Add the dataset only if its licence and Kaggle terms permit redistribution; otherwise link to the source. Update the results table using the actual run, and include generated model files only if desired.
